@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Srijan K! 👋
 
-<!--
-**srijankulal/srijankulal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate developer exploring various domains of technology, from **web development** to **machine learning** and **system programming**. I love solving problems, learning new concepts, and building projects that make a difference.
+
+- 💡 Interested in **Python, Next.js, Flutter, AI, and others**
+- 🛠️ Experimenting with **Computer Vision**, **Embedded Systems**, and **AI Models**
+- 📖 Learning **Zig Programming**, Flutter, Next.js, and **Transformers.py**
+
+## 🌐 Connect with Me
+
+
+
+
+
+## 🛠️ Tech Stack
+
+### 🔹 Languages
+
+### 🔹 Web & App Development
+
+### 🔹 Tools & Frameworks
+
+### 🔹 Databases
+
+---
+
+💬 **Let's collaborate and build something amazing!** 🚀
+
