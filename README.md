@@ -12,7 +12,6 @@ I'm a passionate developer exploring various domains of technology, from **web d
 
 ## 🌐 Connect with Me
 
-- [GitHub](https://github.com/srijankulal)
 - [LinkedIn](https://www.linkedin.com/in/srijan-kulal/)
 
 ---
