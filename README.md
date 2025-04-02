@@ -6,7 +6,7 @@ I'm a passionate developer exploring various domains of technology, from **web d
 
 - 💡 Interested in **Python, Next.js, Flutter, AI, and others**
 - 🛠️ Experimenting with **Computer Vision**, **Embedded Systems**, and **AI Models**
-- 📖 Learning **Zig Programming**, Flutter, Next.js, and **Transformers.py**
+- 📖 Learning **Zig Programming**, **Flutter**, **Next.js**, and **Transformers.py**
 
 ---
 
@@ -19,16 +19,16 @@ I'm a passionate developer exploring various domains of technology, from **web d
 ## 🛠️ Tech Stack
 
 ### 🔹 Languages
-- Python, Dart, JavaScript, Zig, C++
+- Python, Dart, JavaScript, Zig, C
 
 ### 🔹 Web & App Development
 - Next.js, Flutter, React, HTML, CSS
 
 ### 🔹 Tools & Frameworks
-- TensorFlow, PyTorch, OpenCV, Docker, Git
+- TensorFlow, PyTorch, OpenCV, Docker
 
 ### 🔹 Databases
-- MySQL, PostgreSQL, Firebase
+- MySQL, PostgreSQL
 
 ---
 
