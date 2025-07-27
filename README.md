@@ -19,16 +19,16 @@ I'm a passionate developer exploring various domains of technology, from **web d
 ## 🛠️ Tech Stack
 
 ### 🔹 Languages
-- Python, Dart, JavaScript, Zig, C
+- Python, Dart, JavaScript, C
 
 ### 🔹 Web & App Development
-- Next.js, Flutter, React, HTML, CSS
+- Next.js, Flutter, React, HTML, Tailwind CSS
 
 ### 🔹 Tools & Frameworks
-- TensorFlow, PyTorch, OpenCV, Docker
+- TensorFlow, PyTorch, OpenCV, Docker, Flask
 
 ### 🔹 Databases
-- MySQL, PostgreSQL
+- MySQL, PostgreSQL, MongoDB.
 
 ---
 
