@@ -6,7 +6,7 @@ I'm a passionate developer exploring various domains of technology, from **web d
 
 - 💡 Interested in **Python, Next.js, Flutter, AI, and others**
 - 🛠️ Experimenting with **Computer Vision**, **Embedded Systems**, and **AI Models**
-- 📖 Learning **Zig Programming**, **Flutter**, **Next.js**, and **Transformers.py**
+- 📖 Learning **Flutter**, **Next.js**, and **Transformers.py**
 
 ---
 
