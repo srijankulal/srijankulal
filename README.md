@@ -48,12 +48,11 @@ As an MCA student at MIT Manipal, I am deeply passionate about technology and co
 
 ---
 
-### Competitions & Recognition
+### Competitions & Hackathons
 
-*   **Finalist** — National Hackathon: Tech for Agriculture (JAIN University)
-*   **Overall Champions & 1st Place (Product Launch)** — Ekashunyam 3.0 (SDM Ujire)
-*   **Overall Champions & 1st Place (Blind Coding & Bug Squashers)** — Noesis (Rosary College)
-*   **1st Place (Product Launch)** — Medha (SDIT)
+I actively participate and lead teams in collegiate technical fests and national hackathons.
+
+[![Check my updates on LinkedIn](https://img.shields.io/badge/LinkedIn_Activity-View_Posts_%26_Updates-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-kulal/recent-activity/all/)
 
 ---
 
@@ -61,7 +60,7 @@ As an MCA student at MIT Manipal, I am deeply passionate about technology and co
 
 <p align="left">
   <img src="https://img.shields.io/github/followers/srijankulal?label=Followers&style=flat-square&color=339933" alt="Followers" />
-  <img src="https://img.shields.io/badge/Hackathons-Competitive_Builder-blue?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Actively_Building-blue?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-AI_%26_Embedded_Systems-orange?style=flat-square" alt="Focus" />
 </p>
 
