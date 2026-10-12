@@ -35,34 +35,6 @@ As an MCA student at MIT Manipal, I am deeply passionate about technology and co
 
 ---
 
-### Featured Projects
-
-*   **Caprio — AI-Powered Judicial Assistant**  
-    *Agentic AI & NLP* | Streamlines legal research, case management, and court transcriptions using natural language processing and LLM agentic chaining.  
-    `Next.js` `LLM Chaining` `Agentic Flow` `NLP`
-
-*   **PixelCypher — Steganographic Image Encryption**  
-    *Web Security & Cloud* | Text-to-image encryption and decryption utility leveraging secure modern web standards and blob storage.  
-    `Next.js` `TypeScript` `Tailwind CSS` `Security`
-
-*   **GRAVEL — Subterranean Safety & Mesh Network** *(Coming Soon)*  
-    *System Architecture & Embedded Mesh* | Designing a wearable mesh-node sensor network engineered for real-time situational awareness and localization in high-risk subterranean environments.  
-    `ESP32` `Mesh Networking` `Embedded Systems`
-
-*   **Drishti — IoT Smart Storage Monitor**  
-    *IoT & Predictive ML* | Prototyped a post-harvest monitoring system integrating microcontrollers, multi-sensor telemetry, and machine learning models for spoilage prevention.  
-    `ESP32` `Python` `Scikit-Learn` `IoT Telemetry`
-
-*   **Aloymni — Institutional Alumni Platform**  
-    *Full-Stack Web Architecture* | Architected a production-grade web platform for managing collegiate alumni directories, networking workflows, and secure user records.  
-    `Next.js` `TypeScript` `MongoDB` `Tailwind CSS`
-
-*   **PlaylistCrafter — Spotify Automation Utility**  
-    *API Integration & Automation* | Web-based playlist curator utilizing OAuth 2.0 and the Spotify Web API.  
-    `Python` `Flask` `Spotify API` `OAuth 2.0`
-
----
-
 ### Competitions & Hackathons
 
 I actively participate and lead teams in collegiate technical fests and national hackathons.
